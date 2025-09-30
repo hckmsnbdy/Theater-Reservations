@@ -41,7 +41,7 @@ public class TheaterReservations {
         String lastName = parts[1];
         String firstName = parts[0];
 
-        System.out.println(tickets + " ticket(s) reserved for " + date +  " under " + lastName + "," + firstName + ",");
+        System.out.println(tickets + " ticket(s) reserved for " + date +  " under " + lastName + "," + firstName + ".");
 
 
 
